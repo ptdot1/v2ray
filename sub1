@@ -1,0 +1,4 @@
+proxies:
+  - {name: Free Vmes🇻🇳, server: 123.22.185.162, port: 80, type: vmess, uuid: fd855915-f766-4b52-b703-c0af85d2b9eb, alterId: 0, cipher: auto, tls:false, skip-cert-verify: false, network: ws, ws-opts: {path: /ptdot, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
+
+  - {name: Free Vmes🇻🇳, server: 123.22.185.162, port: 443, type: vless, uuid: fd855915-f766-4b52-b703-c0af85d2b9eb, alterId: 0, cipher: auto, tls:false, skip-cert-verify: false, network: ws, ws-opts: {path: /ptdot, headers: {Host: dl.kgvn.garenanow.com}}, udp: true}
